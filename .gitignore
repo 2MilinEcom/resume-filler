@@ -1,0 +1,36 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+documents/
+browser-data/
+# Local-only configuration and personal runtime data
+.env
+.env.*
+!.env.example
+!.env.platform.example
+!.env.nextplay.example
+*.pem
+*.key
+credentials.json
+*token*.json
+node_modules/
+.venv/
+__pycache__/
+.DS_Store
+*.db
+*.sqlite*
+xcuserdata/
+runtime/
+studio-data/
+browser-data/
+drafts/
+reports/
+
+.next/
+node_modules/
+.build/
+.swiftpm/
+*.tsbuildinfo
