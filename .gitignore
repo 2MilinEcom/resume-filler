@@ -34,3 +34,8 @@ node_modules/
 .build/
 .swiftpm/
 *.tsbuildinfo
+
+# Local files
+**/__pycache__/
+**/xcuserdata/
+.env.local
